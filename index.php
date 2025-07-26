@@ -1,10 +1,7 @@
 <?php
-// gpt_use.php
-
 header("Access-Control-Allow-Origin: *");
 header("Content-Type: application/json");
 
-// Verifica si se recibió una solicitud POST
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
     $data = json_decode(file_get_contents("php://input"), true);
 
@@ -14,7 +11,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     }
 
     $prompt = $data["message"];
-    $apiKey = "TU_API_KEY_AQUI";  // <-- Reemplaza con tu clave válida
+    $apiKey = "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";  // <-- reemplázala
 
     $postData = [
         "model" => "gpt-3.5-turbo",
@@ -33,14 +30,15 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($postData));
 
     $response = curl_exec($ch);
-
-    if (curl_errno($ch)) {
-        echo json_encode(["error" => curl_error($ch)]);
-    } else {
-        echo $response;
-    }
-
     curl_close($ch);
+
+    $result = json_decode($response, true);
+
+    if (isset($result["choices"][0]["message"]["content"])) {
+        echo json_encode(["respuesta" => $result["choices"][0]["message"]["content"]]);
+    } else {
+        echo json_encode(["error" => "No se pudo obtener respuesta del modelo."]);
+    }
 } else {
     echo json_encode(["error" => "Solo se aceptan solicitudes POST."]);
 }
