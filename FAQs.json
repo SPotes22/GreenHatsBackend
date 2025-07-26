@@ -1,0 +1,302 @@
+[
+    {
+        "question": "\u00bfQu\u00e9 hace Inge Lean?",
+        "answer": "Inge Lean es una empresa que desarrolla soluciones tecnol\u00f3gicas en automatizaci\u00f3n dom\u00f3tica control el\u00e9ctrico software y hardware industrial.",
+        "category": "General"
+    },
+    {
+        "question": "\u00bfD\u00f3nde est\u00e1 ubicada Inge Lean?",
+        "answer": "Nuestra sede principal est\u00e1 en Colombia con cobertura nacional e internacional seg\u00fan el proyecto.",
+        "category": "General"
+    },
+    {
+        "question": "\u00bfA qu\u00e9 sectores atiende Inge Lean?",
+        "answer": "Trabajamos con los sectores industrial energ\u00e9tico comercial educativo y residencial.",
+        "category": "General"
+    },
+    {
+        "question": "\u00bfInge Lean ofrece servicios personalizados?",
+        "answer": "S\u00ed. Todas nuestras soluciones se adaptan a las necesidades espec\u00edficas de cada cliente.",
+        "category": "General"
+    },
+    {
+        "question": "\u00bfTienen certificaciones o avales t\u00e9cnicos?",
+        "answer": "S\u00ed contamos con personal certificado y trabajamos bajo normativas internacionales.",
+        "category": "General"
+    },
+    {
+        "question": "\u00bfOfrecen soporte t\u00e9cnico despu\u00e9s del proyecto?",
+        "answer": "S\u00ed. Brindamos acompa\u00f1amiento soporte y mantenimiento para todos nuestros desarrollos.",
+        "category": "General"
+    },
+    {
+        "question": "\u00bfCon qu\u00e9 marcas y tecnolog\u00edas trabajan?",
+        "answer": "Trabajamos con marcas reconocidas como Siemens Schneider ABB Arduino ESP32 y m\u00e1s.",
+        "category": "General"
+    },
+    {
+        "question": "\u00bfPuedo solicitar una cotizaci\u00f3n personalizada?",
+        "answer": "Claro puedes contactarnos por la web correo o WhatsApp y uno de nuestros ingenieros te asesorar\u00e1.",
+        "category": "General"
+    },
+    {
+        "question": "\u00bfQu\u00e9 hace diferente a Inge Lean?",
+        "answer": "Nuestra experiencia personal calificado y capacidad de integrar software hardware y control en una sola soluci\u00f3n.",
+        "category": "General"
+    },
+    {
+        "question": "\u00bfTienen portafolio o proyectos realizados?",
+        "answer": "S\u00ed. Puedes ver nuestros casos de \u00e9xito en la p\u00e1gina web o LinkedIn.",
+        "category": "General"
+    },
+    {
+        "question": "\u00bfQu\u00e9 es la automatizaci\u00f3n de procesos?",
+        "answer": "Es el uso de tecnolog\u00edas para ejecutar tareas repetitivas sin intervenci\u00f3n humana mejorando eficiencia y reduciendo errores.",
+        "category": "Automatizaci\u00f3n de procesos"
+    },
+    {
+        "question": "\u00bfQu\u00e9 beneficios trae la automatizaci\u00f3n?",
+        "answer": "Reduce costos operativos mejora la calidad del producto y acelera los tiempos de producci\u00f3n.",
+        "category": "Automatizaci\u00f3n de procesos"
+    },
+    {
+        "question": "\u00bfQu\u00e9 tipo de procesos pueden automatizarse?",
+        "answer": "Procesos industriales administrativos log\u00edsticos de monitoreo y control, entre otros.",
+        "category": "Automatizaci\u00f3n de procesos"
+    },
+    {
+        "question": "\u00bfC\u00f3mo saber si mi empresa necesita automatizaci\u00f3n?",
+        "answer": "Si tienes procesos repetitivos altos costos operativos o errores humanos frecuentes, puedes beneficiarte de automatizaci\u00f3n.",
+        "category": "Automatizaci\u00f3n de procesos"
+    },
+    {
+        "question": "\u00bfQu\u00e9 tecnolog\u00edas usan para automatizar procesos?",
+        "answer": "Utilizamos PLC sensores actuadores SCADA visi\u00f3n por computador e inteligencia artificial.",
+        "category": "Automatizaci\u00f3n de procesos"
+    },
+    {
+        "question": "\u00bfLa automatizaci\u00f3n reemplaza al personal?",
+        "answer": "No necesariamente. Reasigna tareas repetitivas para que el personal se enfoque en funciones m\u00e1s estrat\u00e9gicas.",
+        "category": "Automatizaci\u00f3n de procesos"
+    },
+    {
+        "question": "\u00bfPuedo automatizar parcialmente un proceso?",
+        "answer": "S\u00ed. Evaluamos tu flujo de trabajo y proponemos automatizaci\u00f3n gradual seg\u00fan tu necesidad y presupuesto.",
+        "category": "Automatizaci\u00f3n de procesos"
+    },
+    {
+        "question": "\u00bfCu\u00e1nto tiempo toma automatizar un proceso?",
+        "answer": "Depende del alcance. pero puede variar entre semanas y meses tras el an\u00e1lisis y dise\u00f1o del sistema.",
+        "category": "Automatizaci\u00f3n de procesos"
+    },
+    {
+        "question": "\u00bfOfrecen diagn\u00f3stico o evaluaci\u00f3n inicial?",
+        "answer": "S\u00ed. Realizamos diagn\u00f3sticos para identificar oportunidades de mejora y viabilidad de automatizaci\u00f3n.",
+        "category": "Automatizaci\u00f3n de procesos"
+    },
+    {
+        "question": "\u00bfOfrecen mantenimiento o soporte post-instalaci\u00f3n?",
+        "answer": "S\u00ed brindamos soporte t\u00e9cnico mantenimiento preventivo y actualizaciones del sistema automatizado.",
+        "category": "Automatizaci\u00f3n de procesos"
+    },
+    {
+        "question": "\u00bfQu\u00e9 es el control el\u00e9ctrico industrial?",
+        "answer": "Es la gesti\u00f3n automatizada y segura de maquinaria y procesos industriales mediante dispositivos el\u00e9ctricos.",
+        "category": "Control el\u00e9ctrico industrial"
+    },
+    {
+        "question": "\u00bfQu\u00e9 tipo de tableros el\u00e9ctricos instalan?",
+        "answer": "Dise\u00f1amos e instalamos tableros de control fuerza distribuci\u00f3n automatizaci\u00f3n y paneles HMI.",
+        "category": "Control el\u00e9ctrico industrial"
+    },
+    {
+        "question": "\u00bfTrabajan con normas internacionales?",
+        "answer": "S\u00ed. Cumplimos normativas como IEC NTC y normas de seguridad el\u00e9ctrica para sistemas industriales.",
+        "category": "Control el\u00e9ctrico industrial"
+    },
+    {
+        "question": "\u00bfQu\u00e9 marcas de componentes el\u00e9ctricos utilizan?",
+        "answer": "Trabajamos con marcas l\u00edderes como Siemens Schneider Allen Bradley y ABB. seg\u00fan el requerimiento.",
+        "category": "Control el\u00e9ctrico industrial"
+    },
+    {
+        "question": "\u00bfDise\u00f1an sistemas el\u00e9ctricos desde cero?",
+        "answer": "S\u00ed. Realizamos dise\u00f1o dimensionamiento esquemas el\u00e9ctricos y puesta en marcha de sistemas nuevos.",
+        "category": "Control el\u00e9ctrico industrial"
+    },
+    {
+        "question": "\u00bfPueden mejorar mi sistema el\u00e9ctrico actual?",
+        "answer": "S\u00ed. Evaluamos y optimizamos sistemas existentes para mejorar eficiencia seguridad y cumplimiento normativo.",
+        "category": "Control el\u00e9ctrico industrial"
+    },
+    {
+        "question": "\u00bfQu\u00e9 medidas de seguridad aplican en instalaciones?",
+        "answer": "Usamos protecciones t\u00e9rmicas diferenciales a tierra se\u00f1alizaci\u00f3n canalizaci\u00f3n t\u00e9cnica y equipos certificados.",
+        "category": "Control el\u00e9ctrico industrial"
+    },
+    {
+        "question": "\u00bfQu\u00e9 diferencia hay entre control y automatizaci\u00f3n?",
+        "answer": "El control el\u00e9ctrico es parte esencial de la automatizaci\u00f3n; permite accionar dispositivos con precisi\u00f3n.",
+        "category": "Control el\u00e9ctrico industrial"
+    },
+    {
+        "question": "\u00bfOfrecen mantenimiento el\u00e9ctrico?",
+        "answer": "S\u00ed, ofrecemos mantenimiento correctivo preventivo y predictivo de sistemas el\u00e9ctricos industriales.",
+        "category": "Control el\u00e9ctrico industrial"
+    },
+    {
+        "question": "\u00bfQu\u00e9 tipos de sensores y actuadores usan?",
+        "answer": "Utilizamos sensores inductivos capacitivos fotoel\u00e9ctricos de presi\u00f3n y actuadores el\u00e9ctricos neum\u00e1ticos e hidr\u00e1ulicos.",
+        "category": "Control el\u00e9ctrico industrial"
+    },
+    {
+        "question": "\u00bfQu\u00e9 incluye el desarrollo de hardware?",
+        "answer": "Dise\u00f1o fabricaci\u00f3n y programaci\u00f3n de dispositivos electr\u00f3nicos a medida para procesos espec\u00edficos.",
+        "category": "Desarrollo de hardware"
+    },
+    {
+        "question": "\u00bfDise\u00f1an tarjetas electr\u00f3nicas personalizadas?",
+        "answer": "S\u00ed desarrollamos PCBs y circuitos a medida para control monitoreo sensado y comunicaci\u00f3n.",
+        "category": "Desarrollo de hardware"
+    },
+    {
+        "question": "\u00bfQu\u00e9 herramientas usan para dise\u00f1o de hardware?",
+        "answer": "Usamos software como Altium Eagle KiCad y herramientas de simulaci\u00f3n electr\u00f3nica.",
+        "category": "Desarrollo de hardware"
+    },
+    {
+        "question": "\u00bfPueden integrar hardware con sistemas ya existentes?",
+        "answer": "S\u00ed dise\u00f1amos hardware compatible con infraestructuras industriales y plataformas digitales existentes.",
+        "category": "Desarrollo de hardware"
+    },
+    {
+        "question": "\u00bfQu\u00e9 tipo de microcontroladores utilizan?",
+        "answer": "Trabajamos con microcontroladores como Arduino ESP32 STM32 y PIC seg\u00fan las necesidades del proyecto.",
+        "category": "Desarrollo de hardware"
+    },
+    {
+        "question": "\u00bfFabrican prototipos?",
+        "answer": "S\u00ed. Creamos prototipos funcionales para pruebas antes de la producci\u00f3n final.",
+        "category": "Desarrollo de hardware"
+    },
+    {
+        "question": "\u00bfEl hardware incluye sensores?",
+        "answer": "S\u00ed. Integramos sensores de temperatura humedad proximidad presi\u00f3n gas entre otros.",
+        "category": "Desarrollo de hardware"
+    },
+    {
+        "question": "\u00bfQu\u00e9 tipo de comunicaci\u00f3n integran?",
+        "answer": "Incluimos comunicaci\u00f3n RS485 Ethernet WiFi LoRa Zigbee CAN y otras seg\u00fan el entorno.",
+        "category": "Desarrollo de hardware"
+    },
+    {
+        "question": "\u00bfPuedo solicitar integraci\u00f3n con apps m\u00f3viles?",
+        "answer": "S\u00ed. Integramos hardware con aplicaciones m\u00f3viles y plataformas web para monitoreo en tiempo real.",
+        "category": "Desarrollo de hardware"
+    },
+    {
+        "question": "\u00bfOfrecen pruebas y validaci\u00f3n del hardware?",
+        "answer": "S\u00ed. Realizamos pruebas el\u00e9ctricas funcionales y de compatibilidad antes de entregar el producto.",
+        "category": "Desarrollo de hardware"
+    },
+    {
+        "question": "\u00bfQu\u00e9 tipo de software desarrollan?",
+        "answer": "Desarrollamos software industrial de monitoreo SCADA aplicaciones m\u00f3viles sistemas web y APIs.",
+        "category": "Desarrollo de software"
+    },
+    {
+        "question": "\u00bfQu\u00e9 lenguajes de programaci\u00f3n utilizan?",
+        "answer": "Usamos lenguajes como Python C++ JavaScript PHP y frameworks como React Node.js Django etc.",
+        "category": "Desarrollo de software"
+    },
+    {
+        "question": "\u00bfPuedo solicitar un sistema a la medida?",
+        "answer": "S\u00ed. Nuestro enfoque es desarrollar soluciones totalmente personalizadas para tu empresa.",
+        "category": "Desarrollo de software"
+    },
+    {
+        "question": "\u00bfEl software incluye interfaz gr\u00e1fica?",
+        "answer": "S\u00ed. Dise\u00f1amos interfaces intuitivas y responsivas para computadoras tablets y m\u00f3viles.",
+        "category": "Desarrollo de software"
+    },
+    {
+        "question": "\u00bfOfrecen software para monitoreo de procesos?",
+        "answer": "S\u00ed. Desarrollamos sistemas de adquisici\u00f3n de datos visualizaci\u00f3n de variables y generaci\u00f3n de reportes.",
+        "category": "Desarrollo de software"
+    },
+    {
+        "question": "\u00bfPueden integrar software con mi hardware?",
+        "answer": "S\u00ed. Creamos soluciones que comunican sensores controladores y dispositivos electr\u00f3nicos con plataformas digitales.",
+        "category": "Desarrollo de software"
+    },
+    {
+        "question": "\u00bfC\u00f3mo protegen los datos del software?",
+        "answer": "Aplicamos buenas pr\u00e1cticas de seguridad cifrado autenticaci\u00f3n y respaldo en servidores seguros.",
+        "category": "Desarrollo de software"
+    },
+    {
+        "question": "\u00bfCu\u00e1nto tiempo tarda el desarrollo?",
+        "answer": "Depende del alcance, pero el tiempo estimado se establece en la etapa de planificaci\u00f3n del proyecto.",
+        "category": "Desarrollo de software"
+    },
+    {
+        "question": "\u00bfOfrecen mantenimiento de software?",
+        "answer": "S\u00ed. Ofrecemos soporte t\u00e9cnico actualizaciones ajustes y escalabilidad post-desarrollo.",
+        "category": "Desarrollo de software"
+    },
+    {
+        "question": "\u00bfPueden hacer aplicaciones m\u00f3viles?",
+        "answer": "S\u00ed. Desarrollamos apps para Android y iOS que se integran con sistemas industriales o comerciales.",
+        "category": "Desarrollo de software"
+    },
+    {
+        "question": "\u00bfQu\u00e9 es la dom\u00f3tica?",
+        "answer": "Es la automatizaci\u00f3n de funciones del hogar como iluminaci\u00f3n climatizaci\u00f3n seguridad y electrodom\u00e9sticos.",
+        "category": "Dom\u00f3tica"
+    },
+    {
+        "question": "\u00bfQu\u00e9 sistemas pueden automatizar en una casa?",
+        "answer": "Iluminaci\u00f3n, c\u00e1maras de seguridad cerraduras persianas riego climatizaci\u00f3n y m\u00e1s.",
+        "category": "Dom\u00f3tica"
+    },
+    {
+        "question": "\u00bfQu\u00e9 beneficios ofrece la dom\u00f3tica?",
+        "answer": "Ahorro energ\u00e9tico seguridad comodidad control remoto y automatizaci\u00f3n de rutinas.",
+        "category": "Dom\u00f3tica"
+    },
+    {
+        "question": "\u00bfLa dom\u00f3tica es solo para casas nuevas?",
+        "answer": "No. Podemos instalar sistemas dom\u00f3ticos en viviendas ya construidas mediante integraci\u00f3n inal\u00e1mbrica.",
+        "category": "Dom\u00f3tica"
+    },
+    {
+        "question": "\u00bfPuedo controlar todo desde mi celular?",
+        "answer": "S\u00ed. Configuramos aplicaciones m\u00f3viles que permiten monitorear y controlar tu hogar desde cualquier lugar.",
+        "category": "Dom\u00f3tica"
+    },
+    {
+        "question": "\u00bfQu\u00e9 tecnolog\u00edas usan en dom\u00f3tica?",
+        "answer": "Utilizamos tecnolog\u00edas como WiFi Zigbee Z-Wave sensores de movimiento temperatura y controladores inteligentes.",
+        "category": "Dom\u00f3tica"
+    },
+    {
+        "question": "\u00bfQu\u00e9 marcas trabajan en dom\u00f3tica?",
+        "answer": "Integramos dispositivos de marcas como Sonoff Shelly Tuya Philips Hue y otros compatibles.",
+        "category": "Dom\u00f3tica"
+    },
+    {
+        "question": "\u00bfOfrecen integraci\u00f3n con asistentes de voz?",
+        "answer": "S\u00ed. Configuramos sistemas compatibles con Alexa Google Assistant y Siri.",
+        "category": "Dom\u00f3tica"
+    },
+    {
+        "question": "\u00bfLa dom\u00f3tica requiere mantenimiento?",
+        "answer": "S\u00ed. ofrecemos mantenimiento peri\u00f3dico para asegurar conectividad actualizaciones y funcionamiento \u00f3ptimo.",
+        "category": "Dom\u00f3tica"
+    },
+    {
+        "question": "\u00bfPuedo empezar con un sistema b\u00e1sico?",
+        "answer": "Claro. Podemos comenzar con funciones esenciales y escalar el sistema a medida que lo necesites.",
+        "category": "Dom\u00f3tica"
+    }
+]
