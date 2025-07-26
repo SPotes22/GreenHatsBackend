@@ -11,8 +11,8 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     }
 
     $prompt = $data["message"];
-    $apiKey = "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";  // <-- reemplázala
-
+    
+    $apiKey = getenv("OPENAI_API_KEY");
     $postData = [
         "model" => "gpt-3.5-turbo",
         "messages" => [
