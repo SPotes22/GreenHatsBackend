@@ -1,5 +1,7 @@
 # Chatbot orientado a facturación, entrenado con NLP clásico y montado con Flask (Hackatón 2025)
 ---
+![TOP5](https://github.com/SPotes22/GreenHatsAtTalentoTech/blob/main/milestones/top5_round1.jpeg)
+
 #  Chatbot Backend - PHP + OpenAI API
 
 Este backend en **PHP** sirve como **puente entre la interfaz del chatbot y la API de OpenAI (GPT)**. Fue diseñado para procesar solicitudes de usuario y generar respuestas dinámicas cuando el modelo local no basta.
